@@ -1,0 +1,29 @@
+.m-header{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px !important;
+    line-height: 22px;
+    text-align: right;
+    color: #323846;
+}
+
+.btn-border_green{
+    border: solid 1px #089562;
+    padding: 5px;
+    border-radius: 5px;
+    color: #089562;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: right
+}
+
+.btn-no-border{
+    outline: none;
+    font-size: 14px;
+}
+
+.mouse-hover{
+    background: aliceblue;
+}
